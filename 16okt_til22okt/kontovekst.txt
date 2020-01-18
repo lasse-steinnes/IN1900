@@ -1,0 +1,11 @@
+Tabell 1: Veksten av pengene i banken over fire år,
+ med initialverdi = 100 og rente = 0.05.
+-------------------
+    N   x_{n}
+-------------------
+    0     100.00
+    1     105.00
+    2     110.25
+    3     115.76
+    4     121.55
+------------------
